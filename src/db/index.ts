@@ -1,5 +1,7 @@
 import odbc from "odbc";
 
+// other comment
+
 export default class {
   private static pool: odbc.Pool;
 
