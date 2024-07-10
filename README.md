@@ -1,5 +1,7 @@
 ## nodejs-ibmi-app Template
 
+This is awesome
+
 A Node.js API template, built specifically for using TypeScript, creating APIs with express, and ODBC to connect to IBM i.
 
 ### Create the repo from the template
