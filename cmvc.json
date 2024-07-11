@@ -1,0 +1,8 @@
+{
+  "releaseMap": {
+    "myRelease": {
+      "defect": "abcd1234",
+      "dirs": ["src/db/"]
+    }
+  }
+}
