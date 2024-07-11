@@ -12,6 +12,8 @@ Select 'Use this template' and 'Create a new repository'. Fill out your new repo
 
 ### Setup
 
+Nice one
+
 1. After cloning the repo, change directory to it and use `npm i` to fetch the dependencies
 2. Create a copy of `.env.example` named `.env` and update the environment variables with the values you would use to connect to an IBM i
 
