@@ -2,7 +2,7 @@
   "releaseMap": {
     "myRelease": {
       "defect": "abcd1234",
-      "dirs": ["src/db/"]
+      "dirs": ["src/db"]
     }
   }
 }
